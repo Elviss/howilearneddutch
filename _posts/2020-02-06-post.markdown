@@ -8,7 +8,7 @@ Titulo do post
 
 Escrevendo alguma coisa para exemplificar um paragrafo do post
 
-** Uma linha em negrito **
+**Uma linha em negrito**
 
 
-[aqui um link](google.com.br)
+[aqui um link](http://google.com.br)
