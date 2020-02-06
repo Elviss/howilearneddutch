@@ -1,13 +1,7 @@
 ---
 title: How I learned Dutch
 timezone: America/Sao_Paulo
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
+
 theme: jekyll-theme-dinky
 show_downloads: false
 description: This is the story of How I Learned Dutch
