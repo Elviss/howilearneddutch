@@ -1,4 +1,13 @@
+---
+title: How I learned Dutch
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 theme: jekyll-theme-dinky
 show_downloads: false
-title: How I learned Dutch
-description: This is the story of How I Learned Dutch 
+description: This is the story of How I Learned Dutch
