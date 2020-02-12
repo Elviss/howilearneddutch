@@ -1,4 +1,5 @@
 ---
+layout: posts
 title: Post
 date: 2020-02-06 00:40:00 Z
 author: Elvis
