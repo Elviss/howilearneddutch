@@ -8,6 +8,9 @@ Titulo do post
 
 Escrevendo alguma coisa para exemplificar um paragrafo do post
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur dapibus molestie laoreet. Etiam eu lobortis ante. Suspendisse scelerisque consequat semper. 
+<!--more-->
+Nulla urna lacus, pellentesque eget aliquam egestas, aliquet vitae ex. Phasellus eget nisi ipsum. Fusce ac ligula ac mauris tincidunt sollicitudin. Ut sit amet tortor eu libero fringilla euismod sit amet eu lorem. Proin eget ex eu tellus dapibus cursus id eu nisi. Pellentesque aliquet posuere ante vitae malesuada. Integer placerat leo eu turpis accumsan, vitae convallis felis tincidunt. Curabitur molestie, est nec ultricies commodo, nisl magna tempor eros, vel hendrerit mauris tortor eu augue. In feugiat mollis magna, ac gravida diam posuere vitae.
 **Uma linha em negrito**
 
 
