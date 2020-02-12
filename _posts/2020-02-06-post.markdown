@@ -1,6 +1,8 @@
 ---
+layout: post
 title: Post
 date: 2020-02-06 00:40:00 Z
+tags: [test, teste, primeiro]
 excerpt_separator: <!--more-->
 ---
 
