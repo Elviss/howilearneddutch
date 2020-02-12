@@ -1,14 +1,11 @@
 ---
 layout: posts
-title: Post
+title: Primeiro Post
 date: 2020-02-06 00:40:00 Z
 author: Elvis
 tags: [test, teste, primeiro]
 excerpt_separator: <!--more-->
 ---
-
-Titulo do post
---
 
 Escrevendo alguma coisa para exemplificar um paragrafo do post
 
