@@ -3,7 +3,6 @@ title: Post
 date: 2020-02-06 00:40:00 Z
 author: Elvis
 tags: [test, teste, primeiro]
-permalink: /howilearneddutch/{{post.url}}
 excerpt_separator: <!--more-->
 ---
 
