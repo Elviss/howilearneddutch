@@ -9,7 +9,7 @@ As duas formas são formadas acrescentando-se sufixos aos radicais dos substanti
 
 Ex:
  - Dier: Dier**en**
- - Word: Word**en**
+ - Woord: Woord**en**
  
  
  - A segunda se forma acrescentando a letra `s` ao final da palavra exatamente como fazemos em português
